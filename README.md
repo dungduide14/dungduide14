@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi there, I'm Dung Bui
 
-<!--
-**dungduide14/dungduide14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Working on research platforms for **autonomous vehicles** and **drones**.  
+📫 Research interests include perception, control, and planning.  
+🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Binh Duong 🇻🇳.  
+🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
 
-Here are some ideas to get you started:
+### 📬 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](link linked)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](link github)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](link youtube)
+
+![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-AC7B0C?style=for-the-badge&logo=dev.to&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungduide14&layout=compact&langs_count=8&theme=default" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=dungduide14&show_icons=true&theme=default&count_private=true" width="90%"/>
+    </td>
+  </tr>
+</table>
